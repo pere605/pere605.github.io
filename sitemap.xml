@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pere605.github.io/posts/test-blog-entry/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://pere605.github.io/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://pere605.github.io/posts/</loc>
+    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pere605.github.io/posts/third-entry/</loc>
+    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pere605.github.io/posts/test-blog-entry/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
